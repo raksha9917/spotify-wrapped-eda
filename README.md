@@ -1,5 +1,7 @@
 # 🎵 Spotify Wrapped, Rewritten: An Exploratory Dive into Music Trends (2000–2019)
 
+![Spotify Wrapped EDA](https://github.com/raksha9917/spotify-wrapped-eda/blob/main/Assests%3AHeader_.jpeg)
+
 ## 📖 Overview
 
 This project explores two decades of Spotify’s top hits (2000–2019) using data analytics and visualization. By analyzing audio features like danceability, energy, valence, tempo, loudness, and acousticness, alongside artist and genre trends, the project uncovers patterns that shaped global playlists.
